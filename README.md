@@ -20,3 +20,7 @@
   * _git add ._
   * _git commit -m "Повышена плавность работы"_ 
   * _git push origin feature_new_velocity_
+* На платформе [GitHub](https://github.com/providethemselfs/RobotMotorsControl) нажал кнопку _Compare & pull request
+* Выбрал ветку _feature_new_velocity_ для сравнения, добавил описание запроса на слияние
+* Провел ревью, высказал замечания
+* Внес изменения и запулил заново
