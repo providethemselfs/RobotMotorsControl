@@ -11,7 +11,7 @@
 * Склонирован на рабочую машину командой _git clone https://github.com/providethemselfs/RobotMotorsControl.git_
 * Добавлены файлы _motors_control.py_ и _README.md_
 * Сохранены изменения в ветке **master** при помощи команд: 
- * _git add ._
- * _git commit -m "Загружены исходние коды управления моторами робота"_ 
- * _git push origin master_
+  * _git add ._
+  * _git commit -m "Загружены исходние коды управления моторами робота"_ 
+  * _git push origin master_
 
