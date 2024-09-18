@@ -3,7 +3,7 @@ import time
 #стартовая позиция (широта)
 position = 66.1233251
 #скорость(км/ч)
-velocity = 10;
+velocity = 20;
 #нормировочный коэффициент скорости
 velocity_delimiter = 0.00005;
 while True:
